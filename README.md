@@ -61,7 +61,7 @@ Evaluation Metrics:
 Regression: RMSE, MAE.
 Classification: Accuracy, Precision, Recall, F1-score.
 
-7. Tools and Libraries
+Tools and Libraries
 Image Processing: OpenCV, PIL, TensorFlow, PyTorch.
 Data Handling: Pandas, NumPy.
 Model Development: TensorFlow/Keras or PyTorch.
